@@ -1,3 +1,4 @@
 libreoffice-writer-nogui
 default-jre
 java-common
+ttf-mscorefonts-installer
