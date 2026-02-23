@@ -1,4 +1,5 @@
 streamlit
 docxtpl
 num2words
-
+docx2pdf
+pywin32
