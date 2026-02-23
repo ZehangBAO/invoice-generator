@@ -1,0 +1,3 @@
+libreoffice-writer-nogui
+default-jre
+java-common
