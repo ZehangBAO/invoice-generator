@@ -1,4 +1,3 @@
-libreoffice-writer-nogui
+libreoffice
 default-jre
-java-common
-ttf-mscorefonts-installer
+fonts-liberation
